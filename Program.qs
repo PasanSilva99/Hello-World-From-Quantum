@@ -5,6 +5,6 @@ namespace HelloWorld {
 
     @EntryPoint()  
     operation SayHello() : Unit {  // Our Main Function
-        Message("Hello quantum world!");  // This is how you print in the console
+        Message("Hello world from quantum!");  // This is how you print in the console
     }
 }
